@@ -1,19 +1,20 @@
 <h1 align="center">Hi there, I'm Kamlesh Prajapati 👋</h1>
 <h3 align="center">Freelance Web Developer — Let’s Collaborate! 🤝</h3>
+<img align="right" alt="Coding" width="425" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRnazhvcWdkemMxb3Y2OXZ2MHRtdW9temZxNmJ1N3I3cmxxaDluaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" style="border-radius: 10px;" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkamleshprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="devkamleshprajapati" /> </p>
 
 - 🔭 I’m currently working on [Custom CRM Product](https://www.prabhuproducts.com/)
 
-- 🌱 I’m currently learning **Laravel Nova, RESTful API best practices, and PHPUnit**
+- 🌱 I’m currently learning **Laravel Nova, RESTful API**
 
-- 👨‍💻 All of my projects are available at [https://kamleshprajapati.site/](https://kamleshprajapati.site/)
+- 👨‍💻 All of my projects are available at [Site](https://kamleshprajapati.site/)
 
 - 💬 Ask me about **PHP, CodeIgniter, Laravel, API integration**
 
 - 📫 How to reach me **dev.kamleshprajapati@gmail.com**
 
-- 📄 Know about my experiences [https://kamleshprajapati.com/src/pdf/kamlesh-prajapati-resume.pdf](https://kamleshprajapati.com/src/pdf/kamlesh-prajapati-resume.pdf)
+- 📄 Know about my experiences [Resume](https://kamleshprajapati.com/src/pdf/kamlesh-prajapati-resume.pdf)
 
 - ⚡ Fun fact **I solve a new coding puzzle every morning ☀️**
 
