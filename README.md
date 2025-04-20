@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
 <h1 align="center">Hi there, I'm Kamlesh Prajapati 👋</h1>
 <h3 align="center">Freelance Web Developer — Let’s Collaborate! 🤝</h3>
 <img align="right" alt="Coding" width="425" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRnazhvcWdkemMxb3Y2OXZ2MHRtdW9temZxNmJ1N3I3cmxxaDluaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" style="border-radius: 10px;" >
