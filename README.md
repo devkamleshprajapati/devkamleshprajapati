@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/TYj3c6n0/ezgif-482f81932c8335.gif)
+![MasterHead](https://i.postimg.cc/gjCLLHF0/ezgif-41854d11cf06da.gif)
 <h1 align="center">Hi there, I'm Kamlesh Prajapati 👋</h1>
 <h3 align="center">Freelance Web Developer — Let’s Collaborate! 🤝</h3>
 <img align="right" alt="Coding" width="425" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRnazhvcWdkemMxb3Y2OXZ2MHRtdW9temZxNmJ1N3I3cmxxaDluaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" style="border-radius: 10px;" >
